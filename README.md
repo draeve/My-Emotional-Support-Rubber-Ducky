@@ -1,2 +1,2 @@
 # honker
-read the name. it is what it is.
+choose your own story adventure thing
